@@ -38,6 +38,7 @@ header{
     background-image: linear-gradient(to bottom, var(--cor3), var(--cor5));
     height: 150px;
     padding-top: 40px;
+    padding-bottom: 30px;
     text-align: center;
 }
 
@@ -53,7 +54,6 @@ header > p{
     max-width: 400px;
     margin: auto;
     margin-top: 15px;
-    padding-bottom: 30px;
     text-shadow: 3px 4px 10px rgba(0, 0, 0, 0.433);
 }
 
